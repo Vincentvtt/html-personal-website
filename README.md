@@ -1,2 +1,2 @@
 # html-personal-website
-Personal website created purely from html
+Personal website as part of learning
